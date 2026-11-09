@@ -1,0 +1,15 @@
+PySide6
+httpx
+psutil
+pynvml
+faster-whisper
+sounddevice
+numpy
+pygame-ce
+python-docx
+pywin32
+pyautogui
+pywinauto
+pillow
+piper-tts
+duckduckgo-search
